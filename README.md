@@ -8,10 +8,10 @@
 This repository includes a Sudoku solver in both text and GUI form. The solver implements a backtracking algorithm to solve the board.
 
 ## How to use:
-> **Text version**
+### Text version
 1. Run the following command: `python "sudoku_solver_text.py"`
 1. Enter a number between 1 and 3 to determine difficulty
-> **GUI version**
+### GUI version
 1. Run the following command: `python "sudoku_solver_GUI.py"` 
 1. Enter a number between 1 and 3 to determine difficulty
 1. To choose a cell to edit, either click on it or use the arrow keys to move from one cell to the other
